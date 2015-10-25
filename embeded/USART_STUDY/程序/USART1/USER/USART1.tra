@@ -1,0 +1,26 @@
+*** Creating Trace Output File '.\USER\USART1.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\user\stm32f10x.o"'
+### List of Objects: adding '".\user\main.o"'
+### List of Objects: adding '".\user\stm32f10x_it.o"'
+### List of Objects: adding '".\user\stm32f10x_gpio.o"'
+### List of Objects: adding '".\user\stm32f10x_rcc.o"'
+### List of Objects: adding '".\user\core_cm3.o"'
+### List of Objects: adding '".\user\system_stm32f10x.o"'
+### List of Objects: adding '".\user\misc.o"'
+### List of Objects: adding '".\user\stm32f10x_usart.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\user\stm32f10x.o" ".\user\main.o" ".\user\stm32f10x_it.o" ".\user\stm32f10x_gpio.o" ".\user\stm32f10x_rcc.o" ".\user\core_cm3.o" ".\user\system_stm32f10x.o" ".\user\misc.o" ".\user\stm32f10x_usart.o" --library_type=microlib --ro-base 0x08000000 --entry 0x08000000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict --autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\USART1.map" -o ".\USER\USART1.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\USER\USART1.axf'
+### ADS-LD Command File: '.\USER\USART1.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\USER\USART1.lnp', Handle=0x000012E8
+### Writing '.lnp' file
+### ADS-LD Command file '.\USER\USART1.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

@@ -1,0 +1,10 @@
+.\obj\sys_init.o: ..\user_code\src\init\sys_init.c
+.\obj\sys_init.o: ..\stc_lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\obj\sys_init.o: ..\stc_lib\CMSIS\Core\CM3\stm32f10x.h
+.\obj\sys_init.o: ..\stc_lib\CMSIS\Core\CM3\core_cm3.h
+.\obj\sys_init.o: C:\Keil\ARM\RV31\Inc\stdint.h
+.\obj\sys_init.o: ..\stc_lib\CMSIS\Core\CM3\system_stm32f10x.h
+.\obj\sys_init.o: ..\user_code\inc\config\stm32f10x_conf.h
+.\obj\sys_init.o: ..\stc_lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\obj\sys_init.o: ..\stc_lib\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\obj\sys_init.o: ..\stc_lib\STM32F10x_StdPeriph_Driver\inc\misc.h

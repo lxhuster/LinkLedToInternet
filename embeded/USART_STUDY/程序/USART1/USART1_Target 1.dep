@@ -1,0 +1,68 @@
+Dependencies for Project 'USART1', Target 'Target 1': (DO NOT MODIFY !)
+F (.\STM32F10x.s)(0x4C80BD7A)(--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Keil\ARM\RV31\Inc-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F10x--list .\stm32f10x.lst --xref -o .\user\stm32f10x.o --depend .\user\stm32f10x.d)
+F (.\USER\main.c)(0x52C3ABE1)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I.\library\CMSIS\Core\CM3 -I.\library\STM32F10x_StdPeriph_Driver\inc -I.\library\Template-I C:\Keil\ARM\RV31\Inc-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -DUSE_STM3210B_EVAL -o .\user\main.o --omf_browse .\user\main.crf --depend .\user\main.d)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\CMSIS\Core\CM3\stm32f10x.h)(0x49D96948)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\CMSIS\Core\CM3\core_cm3.h)(0x49D96948)
+I (D:\Program Files\keil\ARM\RV31\INC\stdint.h)(0x00000000)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\CMSIS\Core\CM3\system_stm32f10x.h)(0x49D96948)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\Template\stm32f10x_conf.h)(0x4DF45AD9)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x49D9694A)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x49D9694A)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4C24C532)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x49D9694A)
+I (D:\Program Files\keil\ARM\RV31\INC\stdio.h)(0x00000000)
+F (.\library\Template\stm32f10x_it.c)(0x52C3ABEB)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I.\library\CMSIS\Core\CM3 -I.\library\STM32F10x_StdPeriph_Driver\inc -I.\library\Template-I C:\Keil\ARM\RV31\Inc-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -DUSE_STM3210B_EVAL -o .\user\stm32f10x_it.o --omf_browse .\user\stm32f10x_it.crf --depend .\user\stm32f10x_it.d)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\Template\stm32f10x_it.h)(0x49D96964)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\CMSIS\Core\CM3\stm32f10x.h)(0x49D96948)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\CMSIS\Core\CM3\core_cm3.h)(0x49D96948)
+I (D:\Program Files\keil\ARM\RV31\INC\stdint.h)(0x00000000)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\CMSIS\Core\CM3\system_stm32f10x.h)(0x49D96948)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\Template\stm32f10x_conf.h)(0x4DF45AD9)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x49D9694A)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x49D9694A)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x49D9694A)
+I (D:\Program Files\keil\ARM\RV31\INC\stdio.h)(0x00000000)
+F (.\library\STM32F10x_StdPeriph_Driver\src\stm32f10x_gpio.c)(0x49D9694A)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I.\library\CMSIS\Core\CM3 -I.\library\STM32F10x_StdPeriph_Driver\inc -I.\library\Template-I C:\Keil\ARM\RV31\Inc-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -DUSE_STM3210B_EVAL -o .\user\stm32f10x_gpio.o --omf_browse .\user\stm32f10x_gpio.crf --depend .\user\stm32f10x_gpio.d)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x49D9694A)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\CMSIS\Core\CM3\stm32f10x.h)(0x49D96948)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\CMSIS\Core\CM3\core_cm3.h)(0x49D96948)
+I (D:\Program Files\keil\ARM\RV31\INC\stdint.h)(0x00000000)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\CMSIS\Core\CM3\system_stm32f10x.h)(0x49D96948)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\Template\stm32f10x_conf.h)(0x4DF45AD9)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x49D9694A)
+F (.\library\STM32F10x_StdPeriph_Driver\src\stm32f10x_rcc.c)(0x49D9694A)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I.\library\CMSIS\Core\CM3 -I.\library\STM32F10x_StdPeriph_Driver\inc -I.\library\Template-I C:\Keil\ARM\RV31\Inc-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -DUSE_STM3210B_EVAL -o .\user\stm32f10x_rcc.o --omf_browse .\user\stm32f10x_rcc.crf --depend .\user\stm32f10x_rcc.d)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x49D9694A)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\CMSIS\Core\CM3\stm32f10x.h)(0x49D96948)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\CMSIS\Core\CM3\core_cm3.h)(0x49D96948)
+I (D:\Program Files\keil\ARM\RV31\INC\stdint.h)(0x00000000)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\CMSIS\Core\CM3\system_stm32f10x.h)(0x49D96948)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\Template\stm32f10x_conf.h)(0x4DF45AD9)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x49D9694A)
+F (.\library\CMSIS\Core\CM3\core_cm3.c)(0x49D96948)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I.\library\CMSIS\Core\CM3 -I.\library\STM32F10x_StdPeriph_Driver\inc -I.\library\Template-I C:\Keil\ARM\RV31\Inc-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -DUSE_STM3210B_EVAL -o .\user\core_cm3.o --omf_browse .\user\core_cm3.crf --depend .\user\core_cm3.d)
+I (D:\Program Files\keil\ARM\RV31\INC\stdint.h)(0x00000000)
+F (.\library\CMSIS\Core\CM3\system_stm32f10x.c)(0x4E1578C3)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I.\library\CMSIS\Core\CM3 -I.\library\STM32F10x_StdPeriph_Driver\inc -I.\library\Template-I C:\Keil\ARM\RV31\Inc-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -DUSE_STM3210B_EVAL -o .\user\system_stm32f10x.o --omf_browse .\user\system_stm32f10x.crf --depend .\user\system_stm32f10x.d)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\CMSIS\Core\CM3\stm32f10x.h)(0x49D96948)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\CMSIS\Core\CM3\core_cm3.h)(0x49D96948)
+I (D:\Program Files\keil\ARM\RV31\INC\stdint.h)(0x00000000)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\CMSIS\Core\CM3\system_stm32f10x.h)(0x49D96948)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\Template\stm32f10x_conf.h)(0x4DF45AD9)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x49D9694A)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x49D9694A)
+F (.\library\STM32F10x_StdPeriph_Driver\src\misc.c)(0x49D9694A)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I.\library\CMSIS\Core\CM3 -I.\library\STM32F10x_StdPeriph_Driver\inc -I.\library\Template-I C:\Keil\ARM\RV31\Inc-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -DUSE_STM3210B_EVAL -o .\user\misc.o --omf_browse .\user\misc.crf --depend .\user\misc.d)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\STM32F10x_StdPeriph_Driver\inc\misc.h)(0x4C24C532)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\CMSIS\Core\CM3\stm32f10x.h)(0x49D96948)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\CMSIS\Core\CM3\core_cm3.h)(0x49D96948)
+I (D:\Program Files\keil\ARM\RV31\INC\stdint.h)(0x00000000)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\CMSIS\Core\CM3\system_stm32f10x.h)(0x49D96948)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\Template\stm32f10x_conf.h)(0x4DF45AD9)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x49D9694A)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x49D9694A)
+F (.\library\STM32F10x_StdPeriph_Driver\src\stm32f10x_usart.c)(0x49D9694A)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I.\library\CMSIS\Core\CM3 -I.\library\STM32F10x_StdPeriph_Driver\inc -I.\library\Template-I C:\Keil\ARM\RV31\Inc-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -DUSE_STM3210B_EVAL -o .\user\stm32f10x_usart.o --omf_browse .\user\stm32f10x_usart.crf --depend .\user\stm32f10x_usart.d)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h)(0x49D9694A)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\CMSIS\Core\CM3\stm32f10x.h)(0x49D96948)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\CMSIS\Core\CM3\core_cm3.h)(0x49D96948)
+I (D:\Program Files\keil\ARM\RV31\INC\stdint.h)(0x00000000)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\CMSIS\Core\CM3\system_stm32f10x.h)(0x49D96948)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\Template\stm32f10x_conf.h)(0x4DF45AD9)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h)(0x49D9694A)
+I (E:\Link Led To  internet\embeded\USART_STUDY\程序\USART1\library\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h)(0x49D9694A)
